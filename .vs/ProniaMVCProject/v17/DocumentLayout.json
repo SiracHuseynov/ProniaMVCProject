@@ -1,0 +1,553 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFEE42BF-CDD0-4FF8-BC1C-934A3270F59B}|ProniaMVCProject.Business\\ProniaMVCProject.Business.csproj|c:\\users\\sirac huseynov\\desktop\\proniamvcproject\\proniamvcproject.business\\services\\concretes\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFEE42BF-CDD0-4FF8-BC1C-934A3270F59B}|ProniaMVCProject.Business\\ProniaMVCProject.Business.csproj|solutionrelative:proniamvcproject.business\\services\\concretes\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFEE42BF-CDD0-4FF8-BC1C-934A3270F59B}|ProniaMVCProject.Business\\ProniaMVCProject.Business.csproj|c:\\users\\sirac huseynov\\desktop\\proniamvcproject\\proniamvcproject.business\\services\\concretes\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFEE42BF-CDD0-4FF8-BC1C-934A3270F59B}|ProniaMVCProject.Business\\ProniaMVCProject.Business.csproj|solutionrelative:proniamvcproject.business\\services\\concretes\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFEE42BF-CDD0-4FF8-BC1C-934A3270F59B}|ProniaMVCProject.Business\\ProniaMVCProject.Business.csproj|c:\\users\\sirac huseynov\\desktop\\proniamvcproject\\proniamvcproject.business\\services\\abstracts\\itagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFEE42BF-CDD0-4FF8-BC1C-934A3270F59B}|ProniaMVCProject.Business\\ProniaMVCProject.Business.csproj|solutionrelative:proniamvcproject.business\\services\\abstracts\\itagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFEE42BF-CDD0-4FF8-BC1C-934A3270F59B}|ProniaMVCProject.Business\\ProniaMVCProject.Business.csproj|c:\\users\\sirac huseynov\\desktop\\proniamvcproject\\proniamvcproject.business\\services\\abstracts\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFEE42BF-CDD0-4FF8-BC1C-934A3270F59B}|ProniaMVCProject.Business\\ProniaMVCProject.Business.csproj|solutionrelative:proniamvcproject.business\\services\\abstracts\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFEE42BF-CDD0-4FF8-BC1C-934A3270F59B}|ProniaMVCProject.Business\\ProniaMVCProject.Business.csproj|c:\\users\\sirac huseynov\\desktop\\proniamvcproject\\proniamvcproject.business\\services\\abstracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFEE42BF-CDD0-4FF8-BC1C-934A3270F59B}|ProniaMVCProject.Business\\ProniaMVCProject.Business.csproj|solutionrelative:proniamvcproject.business\\services\\abstracts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFEE42BF-CDD0-4FF8-BC1C-934A3270F59B}|ProniaMVCProject.Business\\ProniaMVCProject.Business.csproj|c:\\users\\sirac huseynov\\desktop\\proniamvcproject\\proniamvcproject.business\\services\\concretes\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFEE42BF-CDD0-4FF8-BC1C-934A3270F59B}|ProniaMVCProject.Business\\ProniaMVCProject.Business.csproj|solutionrelative:proniamvcproject.business\\services\\concretes\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFEE42BF-CDD0-4FF8-BC1C-934A3270F59B}|ProniaMVCProject.Business\\ProniaMVCProject.Business.csproj|c:\\users\\sirac huseynov\\desktop\\proniamvcproject\\proniamvcproject.business\\exceptions\\duplicateexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFEE42BF-CDD0-4FF8-BC1C-934A3270F59B}|ProniaMVCProject.Business\\ProniaMVCProject.Business.csproj|solutionrelative:proniamvcproject.business\\exceptions\\duplicateexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D216F83-3B4A-4229-A3AE-B9FC72AB1354}|ProniaMVCProject.Data\\ProniaMVCProject.Data.csproj|c:\\users\\sirac huseynov\\desktop\\proniamvcproject\\proniamvcproject.data\\repositoryconcretes\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D216F83-3B4A-4229-A3AE-B9FC72AB1354}|ProniaMVCProject.Data\\ProniaMVCProject.Data.csproj|solutionrelative:proniamvcproject.data\\repositoryconcretes\\tagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D216F83-3B4A-4229-A3AE-B9FC72AB1354}|ProniaMVCProject.Data\\ProniaMVCProject.Data.csproj|c:\\users\\sirac huseynov\\desktop\\proniamvcproject\\proniamvcproject.data\\repositoryconcretes\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D216F83-3B4A-4229-A3AE-B9FC72AB1354}|ProniaMVCProject.Data\\ProniaMVCProject.Data.csproj|solutionrelative:proniamvcproject.data\\repositoryconcretes\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D216F83-3B4A-4229-A3AE-B9FC72AB1354}|ProniaMVCProject.Data\\ProniaMVCProject.Data.csproj|c:\\users\\sirac huseynov\\desktop\\proniamvcproject\\proniamvcproject.data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D216F83-3B4A-4229-A3AE-B9FC72AB1354}|ProniaMVCProject.Data\\ProniaMVCProject.Data.csproj|solutionrelative:proniamvcproject.data\\repositoryconcretes\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D216F83-3B4A-4229-A3AE-B9FC72AB1354}|ProniaMVCProject.Data\\ProniaMVCProject.Data.csproj|c:\\users\\sirac huseynov\\desktop\\proniamvcproject\\proniamvcproject.data\\repositoryconcretes\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D216F83-3B4A-4229-A3AE-B9FC72AB1354}|ProniaMVCProject.Data\\ProniaMVCProject.Data.csproj|solutionrelative:proniamvcproject.data\\repositoryconcretes\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D216F83-3B4A-4229-A3AE-B9FC72AB1354}|ProniaMVCProject.Data\\ProniaMVCProject.Data.csproj|c:\\users\\sirac huseynov\\desktop\\proniamvcproject\\proniamvcproject.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D216F83-3B4A-4229-A3AE-B9FC72AB1354}|ProniaMVCProject.Data\\ProniaMVCProject.Data.csproj|solutionrelative:proniamvcproject.data\\dal\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28640C5-78A5-442F-B10A-8C9CB092FBA1}|ProniaMVCProject.Core\\ProniaMVCProject.Core.csproj|c:\\users\\sirac huseynov\\desktop\\proniamvcproject\\proniamvcproject.core\\repositoryabstracts\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28640C5-78A5-442F-B10A-8C9CB092FBA1}|ProniaMVCProject.Core\\ProniaMVCProject.Core.csproj|solutionrelative:proniamvcproject.core\\repositoryabstracts\\itagrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28640C5-78A5-442F-B10A-8C9CB092FBA1}|ProniaMVCProject.Core\\ProniaMVCProject.Core.csproj|c:\\users\\sirac huseynov\\desktop\\proniamvcproject\\proniamvcproject.core\\repositoryabstracts\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28640C5-78A5-442F-B10A-8C9CB092FBA1}|ProniaMVCProject.Core\\ProniaMVCProject.Core.csproj|solutionrelative:proniamvcproject.core\\repositoryabstracts\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28640C5-78A5-442F-B10A-8C9CB092FBA1}|ProniaMVCProject.Core\\ProniaMVCProject.Core.csproj|c:\\users\\sirac huseynov\\desktop\\proniamvcproject\\proniamvcproject.core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28640C5-78A5-442F-B10A-8C9CB092FBA1}|ProniaMVCProject.Core\\ProniaMVCProject.Core.csproj|solutionrelative:proniamvcproject.core\\repositoryabstracts\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28640C5-78A5-442F-B10A-8C9CB092FBA1}|ProniaMVCProject.Core\\ProniaMVCProject.Core.csproj|c:\\users\\sirac huseynov\\desktop\\proniamvcproject\\proniamvcproject.core\\repositoryabstracts\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28640C5-78A5-442F-B10A-8C9CB092FBA1}|ProniaMVCProject.Core\\ProniaMVCProject.Core.csproj|solutionrelative:proniamvcproject.core\\repositoryabstracts\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28640C5-78A5-442F-B10A-8C9CB092FBA1}|ProniaMVCProject.Core\\ProniaMVCProject.Core.csproj|c:\\users\\sirac huseynov\\desktop\\proniamvcproject\\proniamvcproject.core\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28640C5-78A5-442F-B10A-8C9CB092FBA1}|ProniaMVCProject.Core\\ProniaMVCProject.Core.csproj|solutionrelative:proniamvcproject.core\\models\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28640C5-78A5-442F-B10A-8C9CB092FBA1}|ProniaMVCProject.Core\\ProniaMVCProject.Core.csproj|c:\\users\\sirac huseynov\\desktop\\proniamvcproject\\proniamvcproject.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28640C5-78A5-442F-B10A-8C9CB092FBA1}|ProniaMVCProject.Core\\ProniaMVCProject.Core.csproj|solutionrelative:proniamvcproject.core\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28640C5-78A5-442F-B10A-8C9CB092FBA1}|ProniaMVCProject.Core\\ProniaMVCProject.Core.csproj|c:\\users\\sirac huseynov\\desktop\\proniamvcproject\\proniamvcproject.core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28640C5-78A5-442F-B10A-8C9CB092FBA1}|ProniaMVCProject.Core\\ProniaMVCProject.Core.csproj|solutionrelative:proniamvcproject.core\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E28640C5-78A5-442F-B10A-8C9CB092FBA1}|ProniaMVCProject.Core\\ProniaMVCProject.Core.csproj|c:\\users\\sirac huseynov\\desktop\\proniamvcproject\\proniamvcproject.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E28640C5-78A5-442F-B10A-8C9CB092FBA1}|ProniaMVCProject.Core\\ProniaMVCProject.Core.csproj|solutionrelative:proniamvcproject.core\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C081968-5547-454E-98E7-81FB93E7CEE0}|ProniaMVCProject\\ProniaMVCProject.csproj|c:\\users\\sirac huseynov\\desktop\\proniamvcproject\\proniamvcproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C081968-5547-454E-98E7-81FB93E7CEE0}|ProniaMVCProject\\ProniaMVCProject.csproj|solutionrelative:proniamvcproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C081968-5547-454E-98E7-81FB93E7CEE0}|ProniaMVCProject\\ProniaMVCProject.csproj|c:\\users\\sirac huseynov\\desktop\\proniamvcproject\\proniamvcproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9C081968-5547-454E-98E7-81FB93E7CEE0}|ProniaMVCProject\\ProniaMVCProject.csproj|solutionrelative:proniamvcproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D216F83-3B4A-4229-A3AE-B9FC72AB1354}|ProniaMVCProject.Data\\ProniaMVCProject.Data.csproj|c:\\users\\sirac huseynov\\desktop\\proniamvcproject\\proniamvcproject.data\\proniamvcproject.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8D216F83-3B4A-4229-A3AE-B9FC72AB1354}|ProniaMVCProject.Data\\ProniaMVCProject.Data.csproj|solutionrelative:proniamvcproject.data\\proniamvcproject.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C081968-5547-454E-98E7-81FB93E7CEE0}|ProniaMVCProject\\ProniaMVCProject.csproj|c:\\users\\sirac huseynov\\desktop\\proniamvcproject\\proniamvcproject\\views\\shop\\singleproductvariable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C081968-5547-454E-98E7-81FB93E7CEE0}|ProniaMVCProject\\ProniaMVCProject.csproj|solutionrelative:proniamvcproject\\views\\shop\\singleproductvariable.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C081968-5547-454E-98E7-81FB93E7CEE0}|ProniaMVCProject\\ProniaMVCProject.csproj|c:\\users\\sirac huseynov\\desktop\\proniamvcproject\\proniamvcproject\\proniamvcproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9C081968-5547-454E-98E7-81FB93E7CEE0}|ProniaMVCProject\\ProniaMVCProject.csproj|solutionrelative:proniamvcproject\\proniamvcproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C081968-5547-454E-98E7-81FB93E7CEE0}|ProniaMVCProject\\ProniaMVCProject.csproj|c:\\users\\sirac huseynov\\desktop\\proniamvcproject\\proniamvcproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C081968-5547-454E-98E7-81FB93E7CEE0}|ProniaMVCProject\\ProniaMVCProject.csproj|solutionrelative:proniamvcproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C081968-5547-454E-98E7-81FB93E7CEE0}|ProniaMVCProject\\ProniaMVCProject.csproj|c:\\users\\sirac huseynov\\desktop\\proniamvcproject\\proniamvcproject\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C081968-5547-454E-98E7-81FB93E7CEE0}|ProniaMVCProject\\ProniaMVCProject.csproj|solutionrelative:proniamvcproject\\controllers\\shopcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C081968-5547-454E-98E7-81FB93E7CEE0}|ProniaMVCProject\\ProniaMVCProject.csproj|c:\\users\\sirac huseynov\\desktop\\proniamvcproject\\proniamvcproject\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C081968-5547-454E-98E7-81FB93E7CEE0}|ProniaMVCProject\\ProniaMVCProject.csproj|solutionrelative:proniamvcproject\\views\\shop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C081968-5547-454E-98E7-81FB93E7CEE0}|ProniaMVCProject\\ProniaMVCProject.csproj|c:\\users\\sirac huseynov\\desktop\\proniamvcproject\\proniamvcproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C081968-5547-454E-98E7-81FB93E7CEE0}|ProniaMVCProject\\ProniaMVCProject.csproj|solutionrelative:proniamvcproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C081968-5547-454E-98E7-81FB93E7CEE0}|ProniaMVCProject\\ProniaMVCProject.csproj|c:\\users\\sirac huseynov\\desktop\\proniamvcproject\\proniamvcproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C081968-5547-454E-98E7-81FB93E7CEE0}|ProniaMVCProject\\ProniaMVCProject.csproj|solutionrelative:proniamvcproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9C081968-5547-454E-98E7-81FB93E7CEE0}|ProniaMVCProject\\ProniaMVCProject.csproj|c:\\users\\sirac huseynov\\desktop\\proniamvcproject\\proniamvcproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9C081968-5547-454E-98E7-81FB93E7CEE0}|ProniaMVCProject\\ProniaMVCProject.csproj|solutionrelative:proniamvcproject\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D216F83-3B4A-4229-A3AE-B9FC72AB1354}|ProniaMVCProject.Data\\ProniaMVCProject.Data.csproj|c:\\users\\sirac huseynov\\desktop\\proniamvcproject\\proniamvcproject.data\\migrations\\20240509002129_categoriesproductstagstablecreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D216F83-3B4A-4229-A3AE-B9FC72AB1354}|ProniaMVCProject.Data\\ProniaMVCProject.Data.csproj|solutionrelative:proniamvcproject.data\\migrations\\20240509002129_categoriesproductstagstablecreated.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TagService.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Business\\Services\\Concretes\\TagService.cs",
+              "RelativeDocumentMoniker": "ProniaMVCProject.Business\\Services\\Concretes\\TagService.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Business\\Services\\Concretes\\TagService.cs",
+              "RelativeToolTip": "ProniaMVCProject.Business\\Services\\Concretes\\TagService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T00:31:21.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Business\\Services\\Concretes\\CategoryService.cs",
+              "RelativeDocumentMoniker": "ProniaMVCProject.Business\\Services\\Concretes\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Business\\Services\\Concretes\\CategoryService.cs",
+              "RelativeToolTip": "ProniaMVCProject.Business\\Services\\Concretes\\CategoryService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAowBYAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T00:31:12.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Business\\Services\\Concretes\\ProductService.cs",
+              "RelativeDocumentMoniker": "ProniaMVCProject.Business\\Services\\Concretes\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Business\\Services\\Concretes\\ProductService.cs",
+              "RelativeToolTip": "ProniaMVCProject.Business\\Services\\Concretes\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T00:30:56.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITagService.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Business\\Services\\Abstracts\\ITagService.cs",
+              "RelativeDocumentMoniker": "ProniaMVCProject.Business\\Services\\Abstracts\\ITagService.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Business\\Services\\Abstracts\\ITagService.cs",
+              "RelativeToolTip": "ProniaMVCProject.Business\\Services\\Abstracts\\ITagService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T00:24:41.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Business\\Services\\Abstracts\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "ProniaMVCProject.Business\\Services\\Abstracts\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Business\\Services\\Abstracts\\ICategoryService.cs",
+              "RelativeToolTip": "ProniaMVCProject.Business\\Services\\Abstracts\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T00:24:27.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Data\\DAL\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ProniaMVCProject.Data\\DAL\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Data\\DAL\\AppDbContext.cs",
+              "RelativeToolTip": "ProniaMVCProject.Data\\DAL\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T00:02:01.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Data\\RepositoryConcretes\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "ProniaMVCProject.Data\\RepositoryConcretes\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Data\\RepositoryConcretes\\CategoryRepository.cs",
+              "RelativeToolTip": "ProniaMVCProject.Data\\RepositoryConcretes\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T00:17:09.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "ProniaMVCProject.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "RelativeToolTip": "ProniaMVCProject.Data\\RepositoryConcretes\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T00:11:55.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Data\\RepositoryConcretes\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "ProniaMVCProject.Data\\RepositoryConcretes\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Data\\RepositoryConcretes\\ProductRepository.cs",
+              "RelativeToolTip": "ProniaMVCProject.Data\\RepositoryConcretes\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T00:18:25.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Business\\Services\\Abstracts\\IProductService.cs",
+              "RelativeDocumentMoniker": "ProniaMVCProject.Business\\Services\\Abstracts\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Business\\Services\\Abstracts\\IProductService.cs",
+              "RelativeToolTip": "ProniaMVCProject.Business\\Services\\Abstracts\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T00:23:42.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DuplicateException.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Business\\Exceptions\\DuplicateException.cs",
+              "RelativeDocumentMoniker": "ProniaMVCProject.Business\\Exceptions\\DuplicateException.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Business\\Exceptions\\DuplicateException.cs",
+              "RelativeToolTip": "ProniaMVCProject.Business\\Exceptions\\DuplicateException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T00:36:53.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Core\\RepositoryAbstracts\\ITagRepository.cs",
+              "RelativeDocumentMoniker": "ProniaMVCProject.Core\\RepositoryAbstracts\\ITagRepository.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Core\\RepositoryAbstracts\\ITagRepository.cs",
+              "RelativeToolTip": "ProniaMVCProject.Core\\RepositoryAbstracts\\ITagRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T00:01:31.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TagRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Data\\RepositoryConcretes\\TagRepository.cs",
+              "RelativeDocumentMoniker": "ProniaMVCProject.Data\\RepositoryConcretes\\TagRepository.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Data\\RepositoryConcretes\\TagRepository.cs",
+              "RelativeToolTip": "ProniaMVCProject.Data\\RepositoryConcretes\\TagRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T00:19:12.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Core\\RepositoryAbstracts\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "ProniaMVCProject.Core\\RepositoryAbstracts\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Core\\RepositoryAbstracts\\IProductRepository.cs",
+              "RelativeToolTip": "ProniaMVCProject.Core\\RepositoryAbstracts\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T00:01:07.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "ProniaMVCProject.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "RelativeToolTip": "ProniaMVCProject.Core\\RepositoryAbstracts\\IGenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T23:57:58.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Core\\RepositoryAbstracts\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "ProniaMVCProject.Core\\RepositoryAbstracts\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Core\\RepositoryAbstracts\\ICategoryRepository.cs",
+              "RelativeToolTip": "ProniaMVCProject.Core\\RepositoryAbstracts\\ICategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T00:00:21.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Core\\Models\\Tag.cs",
+              "RelativeDocumentMoniker": "ProniaMVCProject.Core\\Models\\Tag.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Core\\Models\\Tag.cs",
+              "RelativeToolTip": "ProniaMVCProject.Core\\Models\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T23:48:46.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Core\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProniaMVCProject.Core\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Core\\Models\\Product.cs",
+              "RelativeToolTip": "ProniaMVCProject.Core\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T23:49:25.329Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Core\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "ProniaMVCProject.Core\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Core\\Models\\Category.cs",
+              "RelativeToolTip": "ProniaMVCProject.Core\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T23:49:06.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Core\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "ProniaMVCProject.Core\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Core\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "ProniaMVCProject.Core\\Models\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T23:48:33.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20240509002129_CategoriesProductsTagsTableCreated.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Data\\Migrations\\20240509002129_CategoriesProductsTagsTableCreated.cs",
+              "RelativeDocumentMoniker": "ProniaMVCProject.Data\\Migrations\\20240509002129_CategoriesProductsTagsTableCreated.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Data\\Migrations\\20240509002129_CategoriesProductsTagsTableCreated.cs",
+              "RelativeToolTip": "ProniaMVCProject.Data\\Migrations\\20240509002129_CategoriesProductsTagsTableCreated.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwC4AAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-09T00:21:30.069Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject\\appsettings.json",
+              "RelativeDocumentMoniker": "ProniaMVCProject\\appsettings.json",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject\\appsettings.json",
+              "RelativeToolTip": "ProniaMVCProject\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAACSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-09T00:07:48.301Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ProniaMVCProject.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Data\\ProniaMVCProject.Data.csproj",
+              "RelativeDocumentMoniker": "ProniaMVCProject.Data\\ProniaMVCProject.Data.csproj",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject.Data\\ProniaMVCProject.Data.csproj",
+              "RelativeToolTip": "ProniaMVCProject.Data\\ProniaMVCProject.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-09T00:03:40.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject\\Program.cs",
+              "RelativeDocumentMoniker": "ProniaMVCProject\\Program.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject\\Program.cs",
+              "RelativeToolTip": "ProniaMVCProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T23:23:28.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ProniaMVCProject.csproj",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject\\ProniaMVCProject.csproj",
+              "RelativeDocumentMoniker": "ProniaMVCProject\\ProniaMVCProject.csproj",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject\\ProniaMVCProject.csproj",
+              "RelativeToolTip": "ProniaMVCProject\\ProniaMVCProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-08T23:44:16.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SingleProductVariable.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject\\Views\\Shop\\SingleProductVariable.cshtml",
+              "RelativeDocumentMoniker": "ProniaMVCProject\\Views\\Shop\\SingleProductVariable.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject\\Views\\Shop\\SingleProductVariable.cshtml",
+              "RelativeToolTip": "ProniaMVCProject\\Views\\Shop\\SingleProductVariable.cshtml",
+              "ViewState": "AQIAAOwCAAAAAAAAAAAiwPsCAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T23:39:13.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject\\Views\\Shop\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProniaMVCProject\\Views\\Shop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject\\Views\\Shop\\Index.cshtml",
+              "RelativeToolTip": "ProniaMVCProject\\Views\\Shop\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T23:34:53.584Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ShopController.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject\\Controllers\\ShopController.cs",
+              "RelativeDocumentMoniker": "ProniaMVCProject\\Controllers\\ShopController.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject\\Controllers\\ShopController.cs",
+              "RelativeToolTip": "ProniaMVCProject\\Controllers\\ShopController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T23:34:44.544Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProniaMVCProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProniaMVCProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAP4DAAAAAAAAAAAqwBoEAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T23:27:50.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ProniaMVCProject\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ProniaMVCProject\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T23:23:59.953Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProniaMVCProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProniaMVCProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAEkLAAAAAAAAAAAiwF8LAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T23:23:48.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProniaMVCProject\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Sirac Huseynov\\Desktop\\ProniaMVCProject\\ProniaMVCProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProniaMVCProject\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T23:23:31.819Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
